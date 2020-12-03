@@ -1,0 +1,13 @@
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\bin\Debug\netcoreapp3.1\HoaDon.exe
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\bin\Debug\netcoreapp3.1\HoaDon.deps.json
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\bin\Debug\netcoreapp3.1\HoaDon.runtimeconfig.json
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\bin\Debug\netcoreapp3.1\HoaDon.runtimeconfig.dev.json
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\bin\Debug\netcoreapp3.1\HoaDon.dll
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\bin\Debug\netcoreapp3.1\HoaDon.pdb
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.csprojAssemblyReference.cache
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.AssemblyInfoInputs.cache
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.AssemblyInfo.cs
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.csproj.CoreCompileInputs.cache
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.dll
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.pdb
+D:\Users\BaiTapCuaToi\Đồ Án\HoaDon\HoaDon\obj\Debug\netcoreapp3.1\HoaDon.genruntimeconfig.cache
